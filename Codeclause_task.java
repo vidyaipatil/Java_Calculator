@@ -1,4 +1,4 @@
-package general;
+package general.Java_Calculator;
 import java.util.Scanner;
 
 public class Codeclause_task {
